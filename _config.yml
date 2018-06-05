@@ -1,0 +1,15 @@
+# Site Settings
+title: The Ratshack
+email: z3wkcguwi5y4@opayq.com
+author: Tom
+description: "A place for me to dump things into the public realm."
+baseurl: ""
+url: ""
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+paginate: 3
+remote_theme: Ratmak/pixyll
+
+
