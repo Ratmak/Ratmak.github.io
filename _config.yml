@@ -12,5 +12,7 @@ permalink: pretty
 plugins: [jekyll-paginate]
 paginate: 3
 remote_theme: pixyll
+animated: true
+
 
 
