@@ -9,7 +9,7 @@ Tom is a friendly guy from New Jersey who likes music and some other things. He 
 
 [^1]: in this context, *partying* is defined as "sleeping poorly - as with sleep apnea"
 
-This website ~~was~~ is probably still being slapped together using a Jekyll theme named Pixyll and crafted with <3 by [John Otander](http://johnotander.com)
+This website ~~was~~ is probably still being slapped together using a Jekyll theme named Pixyll that was crafted with <3 by [John Otander](http://johnotander.com)
 ([@4lpine](https://twitter.com/4lpine)).
 
 I encourage you to check out Pixyll's [Github repository](https://github.com/johnotander/pixyll) to download it,
