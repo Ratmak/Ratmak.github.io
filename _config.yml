@@ -121,7 +121,7 @@ redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
 paginate:     4
-remote_theme: pixyll
+# remote_theme: pixyll
 sass:
   style: compressed
 plugins:
