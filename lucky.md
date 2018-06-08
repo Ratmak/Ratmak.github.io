@@ -2,8 +2,8 @@
 layout: page
 title: Lucky
 permalink: /lucky/
-tags: family
+tags: family,cats
 ---
 
 # Luckers 😻
-![](pirateluckers.jpeg)
+![Katty Kat](/images/piratelucky.jpeg "My Katty Kat")
