@@ -54,17 +54,18 @@ facebook_comments_number: 10
 # Social icons
 github_username: ratmak
 reddit_username:
+instagram_username: molluskhat
 bitbucket_username:
 stackoverflow_id:
 twitter_username: molluskhat
-skype_username: 
+skype_username:
 steam_nickname: ratmak
 google_plus_id:
 linkedin_username: tomkull
 angellist_username:
 medium_id: molluskhat
 bitcoin_url:
-paypal_url: paypal.me/tomkull
+paypal_url: tomkull
 flattr_button:
 telegram_username:
 vk_id:
@@ -104,8 +105,8 @@ text:
   index:
     coming_soon: 'Coming soon...'
   contact:
-    email:    'Email Address'
-    content:  'What would you like to say?'
+    email:    'Don't be shy'
+    content:  'What's up?'
     subject:  'New submission!'
     submit:   'Say Hello'
     ajax:
