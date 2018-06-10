@@ -1,8 +1,9 @@
 ---
 layout: post
-title: bread-and-olives
+title: Bread & Olives
 date: 2018-06-08 17:19:22 -0400
-category: nerd
+summary: Can I get you anything to drink?
+category: nerd personal
 tags: [testing]
 ---
 
