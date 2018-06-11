@@ -105,8 +105,8 @@ text:
   index:
     coming_soon: 'Coming soon...'
   contact:
-    email:    'Don't be shy'
-    content:  'What's up?'
+    email:    'Don\'t be shy'
+    content:  'What\'s up?'
     subject:  'New submission!'
     submit:   'Say Hello'
     ajax:
