@@ -17,12 +17,50 @@
 
 .social-icons a.fa:hover {
   opacity: 1;
-  color: $paypal;
+}
+
+.social-icons a.fa-envelope:hover {
+  opacity: 1;
+  color: $googlered;
+}
+.social-icons a.fa-rss:hover {
+  opacity: 1;
+  color: $rss;
+}
+
+.social-icons a.fa-github:hover {
+  opacity: 1;
+  color: $github;
+}
+
+.social-icons a.fa-instagram:hover {
+  opacity: 1;
+  color: $instagrammagenta;
 }
 
 .social-icons a.fa-twitter:hover {
   opacity: 1;
   color: $twitter;
+}
+
+.social-icons a.fa-steam-square:hover {
+  opacity: 1;
+  color: $steam;
+}
+
+.social-icons a.fa-linkedin:hover {
+  opacity: 1;
+  color: $linkedin;
+}
+
+.social-icons a.fa-medium:hover {
+  opacity: 1;
+  color: $medium;
+}
+
+.social-icons a.fa-paypal:hover {
+  opacity: 1;
+  color: $paypal;
 }
 
 .social-icons iframe[title=Flattr] {
