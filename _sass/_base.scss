@@ -33,7 +33,27 @@ body {
   -webkit-box-sizing: border-box;
 }
 
-.bkgart {
-  background: url("/images/lightlinetom.svg") left/contain no-repeat;
-  opacity: 0.2;
+/* .bkgtom {
+  display: block;
+  width: 200px;
+  height: 200px;
+  float: left;
+  background: url("/images/lightlinetom.svg") left center no-repeat;
+  background-size: contain;
+  shape-outside: url("/images/lightlinetom.svg");
+  shape-margin: 18px;
 }
+@media screen and ( max-width: 750px ) {
+  .bkgtom {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    z-index: -1;
+    opacity: 0.2;
+    float: none;
+    background-position: top center;
+    top: 150px;
+    left: 0px;
+  }
+}
+*/
