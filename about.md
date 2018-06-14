@@ -1,18 +1,11 @@
 ---
-layout: page
+layout: page_art
 title: Tom
 permalink: /about/
 tags: about
 ---
 
-<style>
-.site {
-  background: rgba(255, 255, 255, 0.2) url("/images/lightlinetom.svg") left/contain no-repeat;  
-}
-</style>
-
-
-Tom is a friendly guy from New Jersey who likes music and some other things. He works all day and parties[^1] all night, just like you do. He's interested in old stuff and new stuff and is always looking to learn.
+<span class="style: background: url('/images/lightlinetom.svg') left/contain no-repeat; opacity='0.2';"></span>Tom is a friendly guy from New Jersey who likes music and some other things. He works all day and parties[^1] all night, just like you do. He's interested in old stuff and new stuff and is always looking to learn.
 
 [^1]: in this context, *partying* is defined as "sleeping poorly - as with sleep apnea"
 
