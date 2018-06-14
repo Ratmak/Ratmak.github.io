@@ -6,8 +6,8 @@ tags: about
 ---
 
 <style>
-.tom {
-  background: /images/linetom.jpg
+.site {
+  background: rgba(255, 255, 255, 0.2) url("/images/lightlinetom.svg") left/contain no-repeat;  
 }
 </style>
 

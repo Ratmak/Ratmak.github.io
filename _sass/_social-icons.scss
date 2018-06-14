@@ -58,6 +58,16 @@
   color: $medium;
 }
 
+.social-icons a.fa-bandcamp:hover {
+  opacity: 1;
+  color: $bandcamp;
+}
+
+.social-icons a.fa-soundcloud:hover {
+  opacity: 1;
+  color: $soundcloud;
+}
+
 .social-icons a.fa-paypal:hover {
   opacity: 1;
   color: $paypal;

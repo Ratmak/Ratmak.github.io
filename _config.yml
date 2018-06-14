@@ -69,6 +69,8 @@ paypal_url: tomkull
 flattr_button:
 telegram_username:
 vk_id:
+bandcamp_username: ratmak
+soundcloud_id: myricknj
 
 # Post sharing icons
 show_sharing_icons: false
